@@ -1,0 +1,5 @@
+#!/bin/bash
+ufw allow in on hoofhouse from 192.168.128.0/17 to any port 9090 comment prometheus
+systemctl enable prometheus
+systemctl start prometheus
+

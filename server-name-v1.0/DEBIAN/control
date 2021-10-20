@@ -1,0 +1,7 @@
+Package: hoofhouse-prometheus-config
+Version: 1.0
+Architecture: amd64
+Maintainer: Joshua Vander Hook <j.vanderhook@gmail.com>
+Description: Sets up prometheus the way I like it
+Homepage: https://github.com/jodavaho/prometheus-config
+Depends: prometheus
