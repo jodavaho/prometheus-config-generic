@@ -1,2 +1,2 @@
 all:
-	dpkg-deb --build --root-owner-group hoofhouse-prometheus-config-v1.0
+	dpkg-deb --build --root-owner-group server-name-v1.0  
